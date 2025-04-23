@@ -6,7 +6,7 @@ Lorenzo Donati
 April/May 2025
 MISU
 
-**hw description.png** :: description of the homework
-**kris_ex.py** :: Python code for the homework
-**stream_f.png** :: image obtained from the code
-**GC_Kristofer_homework.pdf** :: report 
+**hw description.png** :: description of the homework  
+**kris_ex.py** :: Python code for the homework  
+**stream_f.png** :: image obtained from the code  
+**GC_Kristofer_homework.pdf** :: report   
